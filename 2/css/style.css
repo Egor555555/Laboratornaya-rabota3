@@ -1,0 +1,76 @@
+body {
+    background: #FFF;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: #000;
+}.header_inner {
+    display: flex;
+}
+.krug {
+    background: #4C64BA; 
+    position: absolute;
+    width: 81px;
+    height: 78px;
+    left: 41px;
+    top: 19px;
+	border-radius: 50px;
+}.golova {
+	background: #FFB44E;
+	position: absolute;
+	width: 1920px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}.text_1{
+	color: #FFFFFF;
+	position: absolute;
+	width: 998.17px;
+	height: 48.52px;
+	left: 193.2px;
+	top: 33.75px;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 46px;
+}.navigation{
+	position: absolute;
+	width: 1920px;
+	height: 54px;
+	left: 0px;
+	top: 120px;
+	background: #C2CEFC;
+}.about_us{
+	position: absolute;
+	width: 70.65px;
+	height: 29.53px;
+	left: 46.86px;
+	top: 15px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+}.abiturient{
+	position: absolute;
+	width: 188.01px;
+	height: 29.53px;
+	left: 242px;
+	top: 15px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+}.student{
+	position: absolute;
+	width: 137.88px;
+	height: 29.53px;
+	left: 554px;
+	top: 15px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+}
